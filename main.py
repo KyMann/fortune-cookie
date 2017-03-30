@@ -1,3 +1,4 @@
+#fortune_cookie main
 #!/usr/bin/env python
 #
 # Copyright 2007 Google Inc.
